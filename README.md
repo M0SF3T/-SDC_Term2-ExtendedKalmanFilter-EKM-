@@ -1,6 +1,6 @@
 ## Extended Kalman Filter Project
 
-<img src="Sim.jpg" width="240" alt="Combined Image" />
+<img src="Sim.jpg" width="360" alt="Combined Image" />
 
 Overview:
 ---
